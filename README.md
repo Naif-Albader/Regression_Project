@@ -2,8 +2,9 @@
 
 ### Riyadh Housing Price Prediction using Linear Regression
 
-# By:
+#### By:
 > Naif Albader
+> Yazeed Musallam
 
 ## Background:
 #### Company info:
