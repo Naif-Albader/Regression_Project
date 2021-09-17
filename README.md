@@ -2,6 +2,9 @@
 
 ### Riyadh Housing Price Prediction using Linear Regression
 
+# By:
+> Naif Albader
+
 ## Background:
 #### Company info:
 > iAQAR for real-estate anaylsis.
