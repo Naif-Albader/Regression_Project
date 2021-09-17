@@ -54,15 +54,9 @@ The dataset represent the sales deals of lands in riyadh in last 11 years
 
 
 
-#### Tools:
-* Technologies: Python, Jupyter notebook
-* Libraries: Numpy, Pandas, Matplotlib, Seaborn,pickle,BeautifulSoup,os,selenium
-
-
 The main technologies and libraries that will be used are:
 Technologies:
 > - Python
-> - SQLite
 > - Jupyter Notebook
 
 Libraries:
@@ -71,10 +65,9 @@ Libraries:
 > - BeautifulSoup and selenium
 > - OS
 > - Matlibplot
-> - SQL
 > - Seaborn
-> - SQLAlchemy 
 > - NumPy
+> - Sklearn
 
 Processing tools: 
 > Google Colab
