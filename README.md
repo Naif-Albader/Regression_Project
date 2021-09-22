@@ -62,6 +62,8 @@ The main technologies and libraries that will be used are:
 Technologies:
 > - Python
 > - Jupyter Notebook
+> - HTML/CSS
+> - Flask
 
 Libraries:
 > - Pandas
@@ -72,6 +74,9 @@ Libraries:
 > - Seaborn
 > - NumPy
 > - Sklearn
+> - Category Encoders
+> - Tensorflow/keras
+> - Plotly
 
 Processing tools: 
 > Google Colab
