@@ -20,7 +20,7 @@
 
 ### Findings:
 ![image](https://raw.githubusercontent.com/Naif-Albader/Regression_Project/main/images/RealVsPredicted.png)
-> The above figure shows predicted target vs real target; th figure shows a slight good model.
+> The above figure shows predicted target vs real target; the figure shows a slight good model.
 <br>
 <br>
 
