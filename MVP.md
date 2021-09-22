@@ -4,7 +4,7 @@
 
 > The primary goal of the project is to predict riyadh real-estate land prices.
 ### Interval:
-> The chosen interval of data is the last 10 years riyadh land prices, the reason is minister of justice land prices started 2010.
+> The chosen interval of data is the last 10 years riyadh land prices, the reason is minister of justice land prices published data started 2010.
 
 ### Training workflow:
 > 1) EDA, to find anomalies in the data such as duplicates and outliers
