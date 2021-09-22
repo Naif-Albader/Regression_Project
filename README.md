@@ -70,7 +70,7 @@ Libraries:
 > - pickle
 > - BeautifulSoup and selenium
 > - OS
-> - Matlibplot
+> - Matplotlib
 > - Seaborn
 > - NumPy
 > - Sklearn
