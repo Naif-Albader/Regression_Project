@@ -2,8 +2,8 @@
 # iAQAR
 
 By:
-> Naif Albader
-> Yazeed Musallam
+> >  Naif Albader
+> >  Yazeed Musallam
 
 
 
@@ -66,13 +66,11 @@ The dataset represent the sales deals of lands in riyadh in last 11 years
 *Data cleaning*:
 > 1) Deleteing the duplicated data points
 > 2) Dealing with outliers using IQR
-> 3) Fixing the datatypes
-> 4) Deleting some inaccurate Neighborhoods
+> 3) Deleting some inaccurate Neighborhoods
 
 *Data validation*:
 > 1) Checking no nulls
-> 2) Fixing turnstiles issue such as (reverse counter, zero counter turnstile, overshooting counter turnstile)
-
+> 2) Checking datatypes
 *feature engineering*:
 Features add:
  > 1)  Change date to numeric value
