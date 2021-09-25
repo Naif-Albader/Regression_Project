@@ -13,8 +13,8 @@ Many Saudi people want to buy land in Riyadh city for investment, personal use b
 ## Design
 The data is scrapped from the Saudi Arabian Ministry of Justice website and it represents the sales deals of lands in Riyadh in the last 11 years and the goal was to analysis it to answer these three main questions
 
-> What is the housing price in riyadh in the next 5 years?
-> Is the price increasing each year?
+> What is the housing price in riyadh in the next 5 years? </br>
+> Is the price increasing each year? </br>
 > What is the price growth for each year?
 
 
