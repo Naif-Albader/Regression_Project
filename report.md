@@ -90,8 +90,8 @@ Data split:
 
 Model used: Neural Network
   results:
-    > R2 (Training): 0.70 
-    > R2 (Validation):  0.62
+    > R2 (Training): 0.70 </br>
+    > R2 (Validation):  0.62 </br>
     > R2 (Testing):  0.60
  
 
