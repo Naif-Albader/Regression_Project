@@ -2,8 +2,8 @@
 # iAQAR
 
 By:
-> >  Naif Albader </br>
-> >  Yazeed Musallam
+>   Naif Albader </br>
+>   Yazeed Musallam
 
 
 
