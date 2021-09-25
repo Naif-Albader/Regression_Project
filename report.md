@@ -61,7 +61,7 @@ The dataset represent the sales deals of lands in riyadh in last 11 years
 > 1) Web scrapped the data from ministy of justice website
 > 2) helper tools:
 > >     1- BeautifulSoup
-> >    2- Selenium
+> >     2- Selenium
 
 *Data cleaning*:
 > 1) Deleteing the duplicated data points
