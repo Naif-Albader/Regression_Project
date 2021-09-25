@@ -82,14 +82,14 @@ Features add:
  > 3) Yearly/Area
  > 4) Categorical values are changed to one label  encoder
  
- Model Training &  Evaluation 
-Data split:
- >  Training: 2010 - 2020 
- >  Validation: 2021/1 to 2021/5
+ Model Training &  Evaluation </br>
+Data split:</br>
+ >  Training: 2010 - 2020 </br>
+ >  Validation: 2021/1 to 2021/5 </br>
  >  Testing: 2021/5 to 2021/9
 
-Model used: Neural Network
-  results:
+Model used: Neural Network </br>
+  results: </br>
     > R2 (Training): 0.70 </br>
     > R2 (Validation):  0.62 </br>
     > R2 (Testing):  0.60
