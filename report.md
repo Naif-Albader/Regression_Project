@@ -133,8 +133,8 @@ Processing tools:
 > Google Colab
 
 ## Communication
-Findings:
-> Some land prices decreases or increases overtime </br>
+Findings: </br>
+Some land prices decreases or increases overtime </br>
 
 > Predicted vs real target:
 ![Picture1](https://raw.githubusercontent.com/Naif-Albader/Regression_Project/main/images/RealVsPredicted.png)
