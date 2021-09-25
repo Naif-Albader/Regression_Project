@@ -8,14 +8,14 @@ By:
 
 
 ## Abstract
-Many Saudi people want to buy land in Riyadh city for investment, personal use but they don’t know the future of this investment so, the goal of iAQAR is to use linear regression models to predict the Land price to help people to invest in the right place.
+Many Saudi people want to buy land in Riyadh city for investment, personal use but they don’t know the future of this investment hence, the goal of iAQAR is to use linear regression models to predict the Land price to help people to invest in the right place.
 
 ## Design
-The data is scrapped from the Saudi Arabian Ministry of Justice website and it represents the sales deals of lands in Riyadh in the last 11 years and the goal was to analysis it to answer these three main questions
+The data is scrapped from the Saudi Arabian Ministry of Justice website and it represents the sales deals of lands in Riyadh in the last 11 years and the goal was to analysis it to answer these three main questions:
 
-> What is the housing price in riyadh in the next 5 years? </br>
-> Is the price increasing each year? </br>
-> What is the price growth for each year?
+> 1) What is the housing price in riyadh in the next 5 years? </br>
+> 2) Is the price increasing each year? </br>
+> 3) What is the price growth for each year?
 
 
 
@@ -76,7 +76,7 @@ The dataset represent the sales deals of lands in riyadh in last 11 years
 
 *feature engineering*:
 </br>
-Features add:
+Features added:
  > 1)  Change date to numeric value
  > 2)  Year
  > 3) Yearly/Area
@@ -88,11 +88,20 @@ Data split:</br>
  >  Validation: 2021/1 to 2021/5 </br>
  >  Testing: 2021/5 to 2021/9
 
-Model used: Neural Network </br>
-  results: </br>
-    > R2 (Training): 0.70 </br>
-    > R2 (Validation):  0.62 </br>
-    > R2 (Testing):  0.60
+Model used: 
+> 1) The following models are used: <br>
+> 1.1) Linear regression (Baseline) <br>
+> 1.2) Polynomial regression <br>
+> 1.3) Random forest <br>
+> 1.4) XGboost <br>
+> 1.4) Neural Network <br>
+>The best found was neural network achieving R^2 of 0.60 
+
+Neural Network </br>
+  Results: </br>
+>     R2 (Training): 0.70
+>     R2 (Validation):  0.62
+>     R2 (Testing):  0.60
  
 
 
@@ -125,9 +134,10 @@ Processing tools:
 
 ## Communication
 Findings:
-> The price increases every year </br>
+> Some land prices decreases or increases overtime </br>
 
+> Predicted vs real target:
+![Picture1](https://raw.githubusercontent.com/Naif-Albader/Regression_Project/main/images/RealVsPredicted.png)
 
-![Picture1](https://user-images.githubusercontent.com/63314269/134777115-7c2ad7b0-242b-4f63-be0e-6a996d0afa4a.png)
-
-![Pictu2re1](https://user-images.githubusercontent.com/63314269/134777135-c4897996-c1e6-44ed-9b07-b7f09e625bea.png)
+> The following figure show a sample of 5 year prediction:
+![Pictu2re1](https://raw.githubusercontent.com/Naif-Albader/Regression_Project/main/images/Sample.png)
