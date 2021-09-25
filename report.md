@@ -75,6 +75,7 @@ The dataset represent the sales deals of lands in riyadh in last 11 years
 
 
 *feature engineering*:
+</br>
 Features add:
  > 1)  Change date to numeric value
  > 2)  Year
