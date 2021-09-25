@@ -125,6 +125,9 @@ Processing tools:
 
 ## Communication
 Findings:
+> The price increases every year </br>
 
 
+![Picture1](https://user-images.githubusercontent.com/63314269/134777115-7c2ad7b0-242b-4f63-be0e-6a996d0afa4a.png)
 
+![Pictu2re1](https://user-images.githubusercontent.com/63314269/134777135-c4897996-c1e6-44ed-9b07-b7f09e625bea.png)
